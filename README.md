@@ -17,7 +17,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[infographic-mcp-app](https://github.com/VancySavoki/infographic-mcp-app)|An MCP App server that renders Infographic diagrams with hand-drawn style|`8⭐`|
+|[infographic-mcp-app](https://github.com/VancySavoki/infographic-mcp-app)|An MCP App server that renders Infographic diagrams with hand-drawn style|`9⭐`|
 |[mystar](https://github.com/VancySavoki/mystar)|None|`1⭐`|
 |[NameNotebook](https://github.com/VancySavoki/NameNotebook)|A notebook that explains how to name a project or variable effectively.|`1⭐`|
 |[counter](https://github.com/VancySavoki/counter)|Counter Project|`0⭐`|
@@ -25,13 +25,15 @@
 |[registry-config](https://github.com/VancySavoki/registry-config)|结合Spring Cloud Config Server和Eureka的多模块注册配置中心，可为分布式应用提供服务注册、服务发现、云配置获取。|`0⭐`|
 |[vant-autoload](https://github.com/VancySavoki/vant-autoload)|general autoload biz components base on [@youzan/vant](https;//github.com/youzan/vant)|`0⭐`|
 |[wetalk-java-sdk](https://github.com/VancySavoki/wetalk-java-sdk)|方便企业内部应用利用微信企业号和钉钉能力开发的sdk。可结合Spring Boot。|`0⭐`|
+|[yuque-desktop](https://github.com/VancySavoki/yuque-desktop)|基于 Flutter 构建的语雀客户端|`0⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[mystar](https://github.com/VancySavoki/mystar)|None|![2026-08-30 16:13:07](https://img.shields.io/badge/2026--08--30-16%3A13%3A07-brightgreen?style=flat-square)|
+|[mystar](https://github.com/VancySavoki/mystar)|None|![2026-09-06 15:07:16](https://img.shields.io/badge/2026--09--06-15%3A07%3A16-brightgreen?style=flat-square)|
 |[infographic-mcp-app](https://github.com/VancySavoki/infographic-mcp-app)|An MCP App server that renders Infographic diagrams with hand-drawn style|![2026-02-12 20:11:17](https://img.shields.io/badge/2026--02--12-20%3A11%3A17-brightgreen?style=flat-square)|
 |[NameNotebook](https://github.com/VancySavoki/NameNotebook)|A notebook that explains how to name a project or variable effectively.|![2025-08-17 14:04:35](https://img.shields.io/badge/2025--08--17-14%3A04%3A35-brightgreen?style=flat-square)|
+|[yuque-desktop](https://github.com/VancySavoki/yuque-desktop)|基于 Flutter 构建的语雀客户端|![2019-06-23 21:54:59](https://img.shields.io/badge/2019--06--23-21%3A54%3A59-brightgreen?style=flat-square)|
 |[counter](https://github.com/VancySavoki/counter)|Counter Project|![2019-03-20 00:15:38](https://img.shields.io/badge/2019--03--20-00%3A15%3A38-brightgreen?style=flat-square)|
 |[vant-autoload](https://github.com/VancySavoki/vant-autoload)|general autoload biz components base on [@youzan/vant](https;//github.com/youzan/vant)|![2018-08-22 16:22:19](https://img.shields.io/badge/2018--08--22-16%3A22%3A19-brightgreen?style=flat-square)|
 |[wetalk-java-sdk](https://github.com/VancySavoki/wetalk-java-sdk)|方便企业内部应用利用微信企业号和钉钉能力开发的sdk。可结合Spring Boot。|![2018-08-22 15:58:18](https://img.shields.io/badge/2018--08--22-15%3A58%3A18-brightgreen?style=flat-square)|
@@ -40,4 +42,4 @@
 
 
 
-*Last updated on: 2026-08-31 00:02:35*
+*Last updated on: 2026-09-06 22:55:38*
