@@ -30,7 +30,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[mystar](https://github.com/VancySavoki/mystar)|None|![2026-09-27 16:02:25](https://img.shields.io/badge/2026--09--27-16%3A02%3A25-brightgreen?style=flat-square)|
+|[mystar](https://github.com/VancySavoki/mystar)|None|![2026-09-28 16:36:28](https://img.shields.io/badge/2026--09--28-16%3A36%3A28-brightgreen?style=flat-square)|
 |[infographic-mcp-app](https://github.com/VancySavoki/infographic-mcp-app)|An MCP App server that renders Infographic diagrams with hand-drawn style|![2026-02-12 20:11:17](https://img.shields.io/badge/2026--02--12-20%3A11%3A17-brightgreen?style=flat-square)|
 |[NameNotebook](https://github.com/VancySavoki/NameNotebook)|A notebook that explains how to name a project or variable effectively.|![2025-08-17 14:04:35](https://img.shields.io/badge/2025--08--17-14%3A04%3A35-brightgreen?style=flat-square)|
 |[yuque-desktop](https://github.com/VancySavoki/yuque-desktop)|基于 Flutter 构建的语雀客户端|![2019-06-23 21:54:59](https://img.shields.io/badge/2019--06--23-21%3A54%3A59-brightgreen?style=flat-square)|
@@ -42,4 +42,4 @@
 
 
 
-*Last updated on: 2026-09-28 00:24:20*
+*Last updated on: 2026-10-05 00:26:17*
